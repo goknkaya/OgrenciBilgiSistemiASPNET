@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+public partial class OgrenciSil : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        //Geriye döndürdüğümüz ID değerini int' e dönüştürme
+        int id = Convert.ToInt32(Request.QueryString["OGRID"].ToString());
+        DataSetTableAdapters.TBL_OGRENCITableAdapter dt = new DataSetTableAdapters.TBL_OGRENCITableAdapter();
+        dt.OgrenciSil(id); //DataSet ile oluşturduğumuz kod arkaplanda id' ye göre delete işlemi yapıyor.
+        Response.Redirect("Default.aspx");
+    }
+}
