@@ -4,6 +4,8 @@
 
 ASP.NET ile geliştirdiğim ilk proje. Bu projeyi Anka Mühendislik' te staj yaptığım süre boyunca geliştirdim. Proje açılır açılmaz bizleri bir login ekranı karşılamaktadır. Sisteme kayıtlı olan öğretmen ve öğrenciler bu panel üzerinde, kendilerine ait atanmış numaralar ve kendilerinin belirleyebildiği şifrelerle sisteme giriş yapabilmektedir. Öğrenci ve Öğretmen adında iki farklı panel vardır.
 
+<img src="[img]https://i.hizliresim.com/jzv8f8e.png[/img]"></img>
+
 ## • Öğretmen Paneli:
 
 * Kendilerine ait şifreleri güncelleyebilme
