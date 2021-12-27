@@ -33,3 +33,31 @@ ASP.NET ile geliştirdiğim ilk proje. Bu projeyi Anka Mühendislik' te staj yap
 * Öğretmenlere ve diğer öğrencilere mesaj gönderebilme
 
 <img src="https://i.hizliresim.com/af2gyfg.png"></img>
+
+# Project: Student Information System with ASP.NET Bootstrap
+
+It's the first project I've developed with ASP.NET. I developed this project during my internship at Anka Mühendislik. As soon as the project opens, a login screen welcomes us. Teachers and students registered to the system can log in to the system with their assigned numbers and passwords that they can determine on this panel.
+
+## • Teacher Panel:
+
+* Ability to update their own passwords
+* Listing registered courses
+* Adding a new course
+* Course deletion
+* Update recorded lessons
+* List registered students
+* Adding new students
+* Student deletion
+* Update students
+* Grade entry for students
+* Ability to view the gallery of registered students' profile photos
+* Ability to view the success graphs of the courses
+* Ability to send messages to registered students
+* Ability to publish announcements
+
+## • Student Panel:
+
+* Ability to update their own passwords
+* Ability to view grades entered by teachers
+* Ability to view announcements created by teachers
+* Ability to send messages to teachers and other students
