@@ -2,9 +2,9 @@
 
 # Proje: ASP.NET Bootstrap ile Öğrenci Bilgi Sistemi
 
-ASP.NET ile geliştirdiğim ilk proje. Bu projeyi Anka Mühendislik' te staj yaptığım süre boyunca geliştirdim. Proje açılır açılmaz bizleri bir login ekranı karşılamaktadır. Sisteme kayıtlı olan öğretmen ve öğrenciler bu panel üzerinde, kendilerine ait atanmış numaralar ve kendilerinin belirleyebildiği şifrelerle sisteme giriş yapabilmektedir. Öğrenci ve Öğretmen adında iki farklı panel vardır.
+ASP.NET ile geliştirdiğim ilk proje. Bu projeyi Anka Mühendislik' te staj yaptığım süre boyunca geliştirdim. Proje açılır açılmaz bizleri bir login ekranı karşılamaktadır. Sisteme kayıtlı olan öğretmen ve öğrenciler bu panel üzerinde, kendilerine ait atanmış numaralar ve kendilerinin belirleyebildiği şifrelerle sisteme giriş yapabilmektedir.
 
-<img src="[img]https://i.hizliresim.com/jzv8f8e.png[/img]"></img>
+<img src="https://i.hizliresim.com/jzv8f8e.png" width="400" height="400"></img>
 
 ## • Öğretmen Paneli:
 
@@ -23,9 +23,13 @@ ASP.NET ile geliştirdiğim ilk proje. Bu projeyi Anka Mühendislik' te staj yap
 * Kayıtlı olan öğrencilere mesaj atabilme
 * Duyuru yayınlayabilme
 
+<img src="https://i.hizliresim.com/6u381gl.png"></img>
+
 ## • Öğrenci Paneli:
 
 * Kendilerine ait şifreleri güncelleyebilme
 * Öğretmenlerin girdiği notları görüntüleyebilme
 * Öğretmenlerin oluşturduğu duyuruları görüntüleyebilme
 * Öğretmenlere ve diğer öğrencilere mesaj gönderebilme
+
+<img src="https://i.hizliresim.com/af2gyfg.png"></img>
