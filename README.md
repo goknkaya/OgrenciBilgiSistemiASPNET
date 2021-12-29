@@ -6,7 +6,7 @@ ASP.NET ile geliştirdiğim ilk proje. Bu projeyi Anka Mühendislik' te staj yap
 
 <img src="https://i.hizliresim.com/jzv8f8e.png" width="400" height="400"></img>
 
-## • Öğretmen Paneli:
+## Öğretmen Paneli:
 
 * Kendilerine ait şifreleri güncelleyebilme
 * Kayıtlı dersleri listeleme
@@ -25,7 +25,7 @@ ASP.NET ile geliştirdiğim ilk proje. Bu projeyi Anka Mühendislik' te staj yap
 
 <img src="https://i.hizliresim.com/6u381gl.png"></img>
 
-## • Öğrenci Paneli:
+## Öğrenci Paneli:
 
 * Kendilerine ait şifreleri güncelleyebilme
 * Öğretmenlerin girdiği notları görüntüleyebilme
@@ -38,7 +38,7 @@ ASP.NET ile geliştirdiğim ilk proje. Bu projeyi Anka Mühendislik' te staj yap
 
 It's the first project I've developed with ASP.NET. I developed this project during my internship at Anka Mühendislik. As soon as the project opens, a login screen welcomes us. Teachers and students registered to the system can log in to the system with their assigned numbers and passwords that they can determine on this panel.
 
-## • Teacher Panel:
+## Teacher Panel:
 
 * Ability to update their own passwords
 * Listing registered courses
@@ -55,7 +55,7 @@ It's the first project I've developed with ASP.NET. I developed this project dur
 * Ability to send messages to registered students
 * Ability to publish announcements
 
-## • Student Panel:
+## Student Panel:
 
 * Ability to update their own passwords
 * Ability to view grades entered by teachers
