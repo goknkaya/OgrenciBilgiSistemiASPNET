@@ -1,5 +1,3 @@
-#### "Murat Yücedağ ASP.NET Bootstrap ile SQL Tabanlı Web Siteleri Geliştirin" Udemy Kursuna ait ASP.NET Projesi
-
 # Proje: ASP.NET Bootstrap ile Öğrenci Bilgi Sistemi
 
 ASP.NET ile geliştirdiğim ilk proje. Bu projeyi Anka Mühendislik' te staj yaptığım süre boyunca geliştirdim. Proje açılır açılmaz bizleri bir login ekranı karşılamaktadır. Sisteme kayıtlı olan öğretmen ve öğrenciler bu panel üzerinde, kendilerine ait atanmış numaralar ve kendilerinin belirleyebildiği şifrelerle sisteme giriş yapabilmektedir.
